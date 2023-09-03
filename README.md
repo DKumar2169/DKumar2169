@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DKumar2169
-- 👀 I’m interested in DSA, Software Development, Android
-- 🌱 I’m currently learning JAVA along with DSA
-- 💞️ I’m looking to collaborate on some beginner and intermediate level projects 
+- 👀 I’m interested in Web Dev, Development, Tech
+- 🌱 I’m currently learning front-end Web development
+- 💞️ I’m looking to collaborate on some beginner and intermediate-level projects 
 - 📫 How to reach me 
-- * [Linkedin Profile](https://www.linkedin.com/in/deepak-kumar-95b7341b2/)
+- * [Linkedin Profile](https://www.linkedin.com/in/deepak2012/)
 - * E-mail I'd - d.kumar122001@gmail.com
 
 <!---
